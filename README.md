@@ -3,6 +3,8 @@ CCAutoType
 
 A cocos2d iOS class to get auto-typing labels.
 
+Require: cocos2d for iOS & iOS 6 or higher
+
 #Example
 
 ```Objective-C
